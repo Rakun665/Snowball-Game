@@ -15,7 +15,7 @@ public class StartGame : MonoBehaviour
         if (gameStarted == false)
         {
             Time.timeScale = 0;
-            print("x");
+            
         }
         if (gameStarted == true)
         {
